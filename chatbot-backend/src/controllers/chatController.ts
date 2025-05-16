@@ -24,10 +24,6 @@ class ChatController {
   public ping(_req: Request, res: Response<string>): void {
     res.send("pong");
   }
-
-  public home(_req: Request, res: Response): void {
-    res.send("Hello World!");
-  }
 }
 
 export default new ChatController();
