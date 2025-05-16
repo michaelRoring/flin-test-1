@@ -17,6 +17,8 @@ npm run start
 
 4. Go to http://localhost:${your_port_here}
 
+5. You can use my deployed backend at https://sole-ardella-michaelroring-88311e5d.koyeb.app/
+
 ## End points
 
 ### GET /ping
